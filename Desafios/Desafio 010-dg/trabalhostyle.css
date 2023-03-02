@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+div{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border: 2px solid #6F3FFD;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 50px;
+    transition-duration: 0.5s;
+}
+div#t1-1{
+    background-image: url('imagem/trabalhos/2022/chernobogperfil.jpg');
+}
+div#t1-2{
+    background-image: url('imagem/trabalhos/2022/duda.jpg');
+}
+div#t1-3{
+    background-image: url('imagem/trabalhos/2022/helgapt2\ \(1\).jpg');
+}
+div#t1-4{
+    background-image: url('imagem/trabalhos/2022/IMG_0107.jpg');
+}
+div#t1-5{
+    background-image: url('imagem/trabalhos/2022/ivoallstarreticulado.jpg');
+}
+div#t1-6{
+    background-image: url('imagem/trabalhos/2022/juli.jpg');
+}
+div#t1-7{
+    background-image: url('imagem/trabalhos/2022/Teen.jpg');
+}
+div#t1-8{
+    background-image: url('imagem/trabalhos/2022/six2.jpg');
+}
+div#t2-1{
+    background-image: url('imagem/trabalhos/2020/desenhod1-eduardosanfelice.jpg');
+}
+div#t2-2{
+    background-image: url('imagem/trabalhos/2020/exercicio\ 1\ joão\ pedro\ santin.jpg');
+}
+div#t2-3{
+    background-image: url('imagem/trabalhos/2020/rafaella\ alvetti\ curso\ desenho\ digital.jpg');
+}
+div#t2-4{
+    background-image: url('imagem/trabalhos/2020/exercício_Lucas_Robert.jpg');
+}
+div#t2-5{
+    background-image: url('imagem/trabalhos/2020/Fernando_siqueira.jpg');
+}
+div#t2-6{
+    background-image: url('imagem/trabalhos/2020/Henrique\ Medina.jpg');
+}
+div#t2-7{
+    background-image: url('imagem/trabalhos/2020/PedroAugustodosSantosNavarro.jpg');
+}
+div#t2-8{
+    background-image: url('imagem/trabalhos/2020/exercício1-\ Stephanie\ Mendes\ .jpg');
+}
+div#t3-1{
+    background-image: url('imagem/trabalhos/2019/09.12.2019.jpg');
+}
+div#t3-2{
+    background-image: url('imagem/trabalhos/2019/Desenho\ Digital\ -\ Camilla\ Ribeiro\ Trabalho\ 1.jpg');
+}
+div#t3-3{
+    background-image: url('imagem/trabalhos/2019/Desenho\ Digital\ -\ Camilla\ Ribeiro\ Trabalho\ 3.jpg');
+}
+div#t3-4{
+    background-image: url('imagem/trabalhos/2019/gabriel.jpg');
+}
+div#t3-5{
+    background-image: url('imagem/trabalhos/2019/lowen.jpg');
+}
+div#t3-6{
+    background-image: url('imagem/trabalhos/2019/Personagem\ do\ leo.jpg');
+}
+div#t4-1{
+    background-image: url('imagem/trabalhos/2018/47356847_2036867643270997_7162297349824315392_o.jpg');
+}
+div#t4-2{
+    background-image: url('imagem/trabalhos/2018/47369652_2036867633270998_6000945923927048192_n.jpg');
+}
+div#t4-3{
+    background-image: url('imagem/trabalhos/2018/47370979_2036871696603925_8475492924950315008_o.jpg');
+}
+div#t4-4{
+    background-image: url('imagem/trabalhos/2018/47390841_2036867703270991_1130815191970217984_o.jpg');
+}
+div#t4-5{
+    background-image: url('imagem/trabalhos/2018/47396676_2036911313266630_4303526959662497792_n.jpg');
+}
+div#t4-6{
+    background-image: url('imagem/trabalhos/2018/Andrew.jpg');
+}
+div#t4-7{
+    background-image: url('imagem/trabalhos/2018/17.jpg');
+}
+div#t4-8{
+    background-image: url('imagem/trabalhos/2018/1.jpg');
+}
